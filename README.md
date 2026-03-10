@@ -13,6 +13,6 @@
   <img src="https://img.shields.io/docker/pulls/mindsdb/mindsdb.svg?logo=docker&label=Docker%20pulls&cacheSeconds=86400" alt="Docker pulls" />
 </a>
 
-<p style="max-width: 900px; margin: 10px auto 40px auto; text-align: left;">Open-source query engine enabling AI agents to answer questions directly from databases, warehouses, and applications without ETL.</p>
+<p style="max-width: 900px; margin: 25px auto 40px auto; text-align: left;">Open-source query engine enabling AI agents to answer questions directly from databases, warehouses, and applications without ETL.</p>
 
 </div>
