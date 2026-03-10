@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github.com/namanvirk18/mindsdb/raw/main/assets/mindsdb.png" alt="MindsDB Logo" width="300">
-
 <h3 style="margin: 10px 0; border: none;">Query engine for AI analytics</h3>
 
 <a href="https://pypi.org/project/MindsDB/" target="_blank">
@@ -17,4 +16,3 @@
 
 </div>
 
-https://github.com/namanvirk18/mindsdb/assets/MindsDB%20Demo.mp4
