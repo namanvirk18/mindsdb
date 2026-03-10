@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/namanvirk18/mindsdb/blob/main/assets/MindsDB%20Logo%20-%20Vertical%20-%20Light%20Mode.webp?raw=true" alt="MindsDB Logo" width="300">
 
-## Query engine for AI analytics<
+## Query engine for AI analytics
 
 <a href="https://pypi.org/project/MindsDB/" target="_blank">
   <img src="https://badge.fury.io/py/MindsDB.svg" alt="MindsDB Release" />
