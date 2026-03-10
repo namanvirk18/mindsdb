@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/namanvirk18/mindsdb/raw/main/assets/MindsDB-logo.png" alt="MindsDB Logo" width="300">
+  <img src="https://github.com/namanvirk18/mindsdb/blob/main/assets/MindsDB%20Logo%20-%20Vertical%20-%20Light%20Mode.webp?raw=true" alt="MindsDB Logo" width="300">
 
 <h3 style="margin: 10px 0; border: none;">Query engine for AI analytics</h3>
 
