@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/namanvirk18/mindsdb/raw/main/assets/mindsdb.png" alt="MindsDB Logo" width="300">
 
-<h3 style="margin: 5px 0 10px 0; border: none;">Query engine for AI analytics, powering agents to answer questions across all your live data</h3>
+<h3 style="margin: 5px 0 10px 0; border: none;">Query engine for AI analytics</h3>
 
 <a href="https://pypi.org/project/MindsDB/" target="_blank">
   <img src="https://badge.fury.io/py/MindsDB.svg" alt="MindsDB Release" />
@@ -15,6 +15,6 @@
 
 <p style="max-width: 900px; margin: 10px auto; text-align: left;">Open-source query engine enabling AI agents to answer questions directly from databases, warehouses, and applications without ETL.</p>
 
-<video src="https://github.com/namanvirk18/mindsdb/raw/main/assets/MindsDB%20Demo.mp4" width="700" controls></video>
+https://github.com/namanvirk18/mindsdb/assets/MindsDB%20Demo.mp4
 
 </div>
